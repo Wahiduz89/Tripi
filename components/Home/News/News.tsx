@@ -33,7 +33,7 @@ const News = () => {
         >
           <NewsCard
             image="/images/n3.jpg"
-            title="Top 10 place to visit in Pakistan"
+            title="Top 10 place to visit in Russia"
             date="22 November 2024"
           />
         </div>
